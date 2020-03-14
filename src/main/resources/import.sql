@@ -16,4 +16,4 @@ insert into user(id, sequence, name, py) values(6, 6,'陈宁婷','CNZ');
 insert into user(id, sequence, name, py) values(7, 7,'陈瑞','CR');
 insert into user(id, sequence, name, py) values(8, 8,'陈武宵','CWX');
 insert into user(id, sequence, name, py) values(9, 9,'陈晓丽','CXL');
-insert into user(id, sequence, name, py) values(10, 10,'陈涛','CYT');
+insert into user(id, sequence, name, py) values(10, 10,'陈涛','CT');
