@@ -16,7 +16,7 @@ UserMapper.selectAll     : <==        Row: 6, 6, 陈宁婷, CNZ
 UserMapper.selectAll     : <==        Row: 7, 7, 陈瑞, CR
 UserMapper.selectAll     : <==        Row: 8, 8, 陈武宵, CWX
 UserMapper.selectAll     : <==        Row: 9, 9, 陈晓丽, CXL
-UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CYT
+UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CT
 UserMapper.selectAll     : <==      Total: 10
 Application              : 将 3 号挪到 7 号后面
 UserMapper.getSeqs       : ==>  Preparing: select id, sequence as seq from user where id in ( 3,7) 
@@ -44,7 +44,7 @@ UserMapper.selectAll     : <==        Row: 7, 6, 陈瑞, CR
 UserMapper.selectAll     : <==        Row: 3, 7, 曾三杰, ZSJ
 UserMapper.selectAll     : <==        Row: 8, 8, 陈武宵, CWX
 UserMapper.selectAll     : <==        Row: 9, 9, 陈晓丽, CXL
-UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CYT
+UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CT
 UserMapper.selectAll     : <==      Total: 10
 Application              : 将 4 号挪到 8 号前面
 UserMapper.getSeqs       : ==>  Preparing: select id, sequence as seq from user where id in ( 4,8) 
@@ -72,7 +72,7 @@ UserMapper.selectAll     : <==        Row: 3, 6, 曾三杰, ZSJ
 UserMapper.selectAll     : <==        Row: 4, 7, 常元琴, CYQ
 UserMapper.selectAll     : <==        Row: 8, 8, 陈武宵, CWX
 UserMapper.selectAll     : <==        Row: 9, 9, 陈晓丽, CXL
-UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CYT
+UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CT
 UserMapper.selectAll     : <==      Total: 10
 Application              : 将 9 号挪到 2 号前面
 UserMapper.getSeqs       : ==>  Preparing: select id, sequence as seq from user where id in ( 9,2) 
@@ -100,7 +100,7 @@ UserMapper.selectAll     : <==        Row: 7, 6, 陈瑞, CR
 UserMapper.selectAll     : <==        Row: 3, 7, 曾三杰, ZSJ
 UserMapper.selectAll     : <==        Row: 4, 8, 常元琴, CYQ
 UserMapper.selectAll     : <==        Row: 8, 9, 陈武宵, CWX
-UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CYT
+UserMapper.selectAll     : <==        Row: 10, 10, 陈涛, CT
 UserMapper.selectAll     : <==      Total: 10
 Application              : 将 10 号挪到 1 号后面
 UserMapper.getSeqs       : ==>  Preparing: select id, sequence as seq from user where id in ( 10,1) 
@@ -120,7 +120,7 @@ UserMapper.selectAll     : ==>  Preparing: SELECT id,sequence,name,py FROM user 
 UserMapper.selectAll     : ==> Parameters: 
 UserMapper.selectAll     : <==    Columns: ID, SEQUENCE, NAME, PY
 UserMapper.selectAll     : <==        Row: 1, 1, 毕淑儒, BSR
-UserMapper.selectAll     : <==        Row: 10, 2, 陈涛, CYT
+UserMapper.selectAll     : <==        Row: 10, 2, 陈涛, CT
 UserMapper.selectAll     : <==        Row: 9, 3, 陈晓丽, CXL
 UserMapper.selectAll     : <==        Row: 2, 4, 蔡兴熙, CXX
 UserMapper.selectAll     : <==        Row: 5, 5, 陈栋芬, CDF
