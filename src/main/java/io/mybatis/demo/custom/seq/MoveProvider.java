@@ -71,7 +71,7 @@ public class MoveProvider extends MapperTemplate {
     }
 
     /**
-     * 获取符合查询条件的最大序号
+     * 获取指定 ids 的序号
      *
      * @param ms
      * @return
@@ -86,7 +86,7 @@ public class MoveProvider extends MapperTemplate {
     }
 
     /**
-     * 获取符合查询条件的最大序号
+     * 根据 id 更新序号
      *
      * @param ms
      * @return

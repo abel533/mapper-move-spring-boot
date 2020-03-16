@@ -7,16 +7,16 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * 列表顺序上下移动操作（不存在父子结构关系）
+ * 列表顺序上下移动操作
  *
  * @author liuzh
  */
 public class MoveMapperUtil {
 
     /**
-     * 列表顺序上下移动操作（不存在父子结构关系）
+     * 列表顺序上下移动操作
      *
-     * @param mapper     dao 实例，需要继承 NetStarDao 和 NetStarSeqMapper
+     * @param mapper     dao 实例，需要继承 MoveMapper
      * @param movingId   被移动节点的 id
      * @param targetId   移动的目标 id
      * @param direction  移动的位置，上方或者下方

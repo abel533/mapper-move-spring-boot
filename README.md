@@ -1,4 +1,6 @@
-# 通用 Mapper 扩展示例
+# 通用 Mapper 进阶实例：为什么好久都没更新了？
+
+博客地址：https://liuzh.blog.csdn.net/article/details/104776347
 
 日志：
 
